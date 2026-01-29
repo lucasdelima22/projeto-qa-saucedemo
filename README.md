@@ -15,4 +15,4 @@ Validar o fluxo principal de compra e regras de negócio do e-commerce SauceDemo
 ##  Evidências de Teste:
 
 ### Bug/Validação: Campo "Last Name" obrigatório
-![Evidência de Erro](evidencia.regradenegociook.png)
+![Evidência de Erro](evidencia.regradenegocio.ok.png)
