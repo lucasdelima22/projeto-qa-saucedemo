@@ -1,6 +1,6 @@
 # Projeto de Testes - SauceDemo 
 
-##  Objetivo
+##  Objetivo:
 Validar o fluxo principal de compra e regras de negócio do e-commerce SauceDemo.
 
 ##  Cenários de Teste (Exemplo de BDD)
@@ -12,7 +12,7 @@ Validar o fluxo principal de compra e regras de negócio do e-commerce SauceDemo
 
 ---
 
-##  Evidências de Teste
+##  Evidências de Teste:
 
 ### Bug/Validação: Campo "Last Name" obrigatório
 ![Evidência de Erro](evidencia.regradenegociook.png)
